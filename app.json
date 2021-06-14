@@ -13,15 +13,15 @@
     "env": {
       "API_ID": {
         "description": "get this value from https://my.telegram.org",
-        "value": ""
+        "value": "4012617"
       },
       "API_HASH": {
         "description": "get this value from https://my.telegram.org",
-        "value": ""
+        "value": "4657ccf220042f7bbfa957c5ec2d7bf7"
       },
       "BOT_TOKEN": {
         "description": "get this value from @BotFather",
-        "value": ""
+        "value": "1878772373:AAF4MdPdpE0WPcjEz-JVjxmrFcTtxg0RLt8"
       },
       "BOT_PASSWORD": {
         "description": "enter pasword or leave it public",
@@ -30,8 +30,8 @@
       }
     },
     "stack": "container",
-    "formation": {
-      "worker": {
+    "formation": {596260568
+      "worker": {1234736792
         "quantity": 1,
         "size": "free"
       }
